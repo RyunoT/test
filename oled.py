@@ -22,6 +22,9 @@
 # | 16 | NC  | Not Used           |
 # +----+-----+--------------------|
 
+
+
+
 import RPi.GPIO as GPIO
 import time
 import subprocess
